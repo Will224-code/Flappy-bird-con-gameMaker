@@ -7,7 +7,7 @@ Bienvenido al repositorio de **Flappy Bird**, un videojuego desarrollado en Game
 Recreacion del videojuego flappy bird, la cual tendra 3 salas, cada sala con una tarea inportante, en donde se podra seleccionar el aspecto del personaje, podra verse el puntaje obtenido y poder divertirse.
 
 ## Proceso de desarollo
-A continuación, se detalla el progreso actual del desarrollo. Puedes hacer clic en los enlaces para acceder a la documentación específica de cada fase[cite: 17, 62]:
+A continuación, se detalla el progreso actual del desarrollo. Puedes hacer clic en los enlaces para acceder a la documentación específica de cada fase:
 
 | Fase | Documentación Disponible | Estado |
 | :--- | :--- | :--- |
