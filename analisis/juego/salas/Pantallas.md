@@ -54,7 +54,7 @@ El objetivo de esta sala es ser la sección en donde el jugadador interactua con
 * Contador: Sección en donde mostrara el puntaje obtenido en tiempo real.
 * Suelo: Suelo de color verde con anaranjado con un movimiento horizontal hacia la izquierda.
 * Tubos: Tuvos color verde con un movimiento horizontal a la izquierda. 
-* Pesonaje: Personaje elegido por sala "RM_Juego".
+* Pesonaje: Personaje elegido por sala "RM_Inicio".
 * Música: Musica de fondo en bucle.
 
 ### RM_Final 

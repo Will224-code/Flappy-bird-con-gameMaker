@@ -23,3 +23,6 @@ El El juego se basa en 3 salas, con un flujo lineal; Cada una de estas salas tie
 1. **`RM_Inicio`**: Menú principal con selección de personajes y botón de inicio.
 2. **`RM_Juego`**: Pantalla de gameplay interactivo y conteo de puntaje en tiempo real.
 3. **`RM_Final`**: Pantalla de Game Over con estadísticas del intento y récords personales.
+
+
+El proposito del desarrollo del videojuego flappy bird en con fines educativos y aprendizaje con respecto a la documentacion tecnica, el desarrollo de diagramas, aplicacion de buenas practicas y desarrollo del mismo programa.
